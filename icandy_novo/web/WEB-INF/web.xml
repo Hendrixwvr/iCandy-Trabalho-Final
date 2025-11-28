@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd"
+         version="6.0">
+    
+    <!-- Configuração para cadastrar_produto.jsp com upload -->
+    <servlet>
+        <servlet-name>cadastrar_produto</servlet-name>
+        <jsp-file>/produto/cadastrar_produto.jsp</jsp-file>
+        <multipart-config>
+            <max-file-size>10485760</max-file-size> <!-- 10MB -->
+            <max-request-size>20971520</max-request-size> <!-- 20MB -->
+        </multipart-config>
+    </servlet>
+    
+    <servlet-mapping>
+        <servlet-name>cadastrar_produto</servlet-name>
+        <url-pattern>/produto/cadastrar_produto.jsp</url-pattern>
+    </servlet-mapping>
+    
+    <!-- Configuração para editar_produto.jsp com upload -->
+    <servlet>
+        <servlet-name>editar_produto</servlet-name>
+        <jsp-file>/produto/editar_produto.jsp</jsp-file>
+        <multipart-config>
+            <max-file-size>10485760</max-file-size> <!-- 10MB -->
+            <max-request-size>20971520</max-request-size> <!-- 20MB -->
+        </multipart-config>
+    </servlet>
+    
+    <servlet-mapping>
+        <servlet-name>editar_produto</servlet-name>
+        <url-pattern>/produto/editar_produto.jsp</url-pattern>
+    </servlet-mapping>
+    
+    <session-config>
+        <session-timeout>30</session-timeout>
+    </session-config>
+    
+</web-app>

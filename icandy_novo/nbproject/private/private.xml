@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/cadastro/cadastro.html</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/login.jsp</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/index.html</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/produto/listar_produtos.jsp</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/produto/excluir_produto.jsp</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/produto/editar_produto.jsp</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/produto/cadastrar_produto.jsp</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/pedido/meus_pedidos.jsp</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/pedido/finalizar_pedido.jsp</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/pedido/detalhes_pedido.jsp</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/pedido/cancelar_pedido.jsp</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/home/remover_carrinho.jsp</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/home/home.jsp</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/home/carrinho.jsp</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/home/atualizar_carrinho.jsp</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/home/adicionar_carrinho.jsp</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/cliente/alterar_senha.jsp</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/cliente/editar_perfil.jsp</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/cliente/excluir_conta.jsp</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/cliente/perfil.jsp</file>
+            <file>file:/C:/Users/hendr/Documents/NetBeansProjects/icandy_novo/web/cadastro/cadastro.jsp</file>
+        </group>
+    </open-files>
+</project-private>
